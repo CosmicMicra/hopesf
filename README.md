@@ -9,7 +9,8 @@ HopeSF is a specialized platform designed to support homeless individuals in San
 
 **Mission:** Empowering homeless individuals with personalized, dignified access to services and benefits they deserve.
 
-**Live Demo:** [https://your-hopesf-site.netlify.app](https://your-hopesf-site.netlify.app)
+**Live Demo:** https://hopesf.netlify.app/
+
 
 ##  Key Features
 
